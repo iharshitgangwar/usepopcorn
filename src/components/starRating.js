@@ -41,7 +41,6 @@ export default function StarRating({
   function handleOnHoverIn(getvalue) {
     setTempRating(getvalue);
   }
-
   return (
     <>
       <div
